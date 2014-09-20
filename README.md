@@ -19,7 +19,7 @@ $ wt . "go test"
 HOW TO INSTALL
 -----------------
 
-[RELESES](https://github.com/yosuke-furukawa/wt/releases)
+[DOWNLOAD FROM HERE](https://github.com/yosuke-furukawa/wt/releases)
 
 DEMO
 -----------------
