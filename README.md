@@ -16,4 +16,8 @@ $ wt <filepath> <command> [interval (second, default 1sec)]
 $ wt . "go test"
 ```
 
+DEMO
+-----------------
+
+![image](./wt_demo.gif)
 
