@@ -16,8 +16,17 @@ $ wt <filepath> <command> [interval (second, default 1sec)]
 $ wt . "go test"
 ```
 
+HOW TO INSTALL
+-----------------
+
+[RELESES](https://github.com/yosuke-furukawa/wt/releases)
+
 DEMO
 -----------------
 
 ![image](./wt_demo.gif)
 
+LICENSE
+-----------------
+
+MIT
